@@ -16,5 +16,3 @@ class Solution(object):
             counts[i] = count
             count = 0
         return counts
-    numbers = [3,4,7,43,78,2,4,3,6,7,7,7]
-    print(smallerNumbersThanCurrent(numbers))
